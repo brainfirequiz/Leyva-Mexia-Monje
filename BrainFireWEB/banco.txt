@@ -1,0 +1,1820 @@
+1er Semestre
+Matemáticas Discretas
+1.	¿Qué tipo de estructuras estudia principalmente la matemática discreta?
+o	A) Estructuras continuas
+o	B) Estructuras finitas o numerables
+o	C) Tasas de cambio vectorial
+o	D) Superficies curvas
+o	Correcta: B
+2.	En teoría de conjuntos, ¿qué operación combina todos los elementos de dos conjuntos sin repetirlos?
+o	A) Intersección
+o	B) Diferencia
+o	C) Unión
+o	D) Complemento
+o	Correcta: C
+3.	¿Cuál es el resultado de la intersección entre un conjunto $A$ y el conjunto vacío?
+o	A) El conjunto $A$
+o	B) El conjunto universal
+o	C) Un subconjunto de $A$
+o	D) El conjunto vacío
+o	Correcta: D
+4.	En lógica proposicional, ¿qué operador devuelve verdadero solo si ambas proposiciones son verdaderas?
+o	A) Disyunción (OR)
+o	B) Conjunción (AND)
+o	C) Negación (NOT)
+o	D) Disyunción exclusiva (XOR)
+o	Correcta: B
+5.	¿Cómo se le llama a una proposición compuesta que siempre es verdadera, sin importar el valor de sus variables?
+o	A) Contradicción
+o	B) Contingencia
+o	C) Tautología
+o	D) Falacia
+o	Correcta: C
+6.	Si una tabla de verdad tiene $n$ variables proposicionales, ¿cuántas filas tendrá?
+o	A) $2n$
+o	B) $n^2$
+o	C) $2^n$
+o	D) $n!$
+o	Correcta: C
+7.	¿Qué es un grafo conexo?
+o	A) Un grafo sin aristas
+o	B) Un grafo donde existe un camino entre cualquier par de vértices
+o	C) Un grafo con ciclos infinitos
+o	D) Un grafo donde todos los vértices tienen grado 1
+o	Correcta: B
+8.	En teoría de grafos, ¿qué nombre recibe un grafo que no contiene ciclos?
+o	A) Grafo completo
+o	B) Grafo bipartito
+o	C) Árbol
+o	D) Grafo dirigido
+o	Correcta: C
+9.	¿Cuál es el valor factorial de cero ($0!$)?
+o	A) 0
+o	B) 1
+o	C) Infinito
+o	D) Indefinido
+o	Correcta: B
+10.	En combinatoria, ¿qué técnica de conteo se utiliza cuando sí importa el orden de los elementos?
+o	A) Combinación
+o	B) Permutación
+o	C) Inclusión-exclusión
+o	D) Partición
+o	Correcta: B
+11.	¿Qué técnica se usa cuando no importa el orden al seleccionar elementos de un conjunto?
+o	A) Combinación
+o	B) Permutación
+o	C) Producto cartesiano
+o	D) Principio del palomar
+o	Correcta: A
+12.	"Si tienes $n+1$ palomas y $n$ nidos, al menos un nido tendrá más de una paloma". ¿A qué principio corresponde?
+o	A) Principio de inducción
+o	B) Principio de inclusión
+o	C) Principio de las casillas (Palomar)
+o	D) Principio de equivalencia
+o	Correcta: C
+13.	Una relación binaria que es reflexiva, simétrica y transitiva se conoce como:
+o	A) Relación de orden parcial
+o	B) Relación de equivalencia
+o	C) Función biyectiva
+o	D) Relación vacía
+o	Correcta: B
+14.	Si una función mapea cada elemento del dominio a un elemento distinto del codominio, la función es:
+o	A) Suprayectiva
+o	B) Inyectiva
+o	C) Constante
+o	D) Identidad
+o	Correcta: B
+15.	¿Qué es un grafo dirigido (dígrafo)?
+o	A) Un grafo donde las aristas tienen una dirección específica
+o	B) Un grafo donde los vértices tienen un peso numérico
+o	C) Un grafo que solo puede dibujarse en un plano
+o	D) Un grafo sin nodos aislados
+o	Correcta: A
+16.	¿Cuál es la cardinalidad del conjunto de partes (conjunto potencia) de un conjunto con 3 elementos?
+o	A) 3
+o	B) 6
+o	C) 8
+o	D) 9
+o	Correcta: C
+17.	En una relación reflexiva definida sobre un conjunto $A$, ¿qué condición debe cumplirse?
+o	A) Todo elemento está relacionado consigo mismo
+o	B) Ningún elemento está relacionado consigo mismo
+o	C) Si $a$ se relaciona con $b$, $b$ se relaciona con $a$
+o	D) Existe un único elemento mínimo
+o	Correcta: A
+18.	¿Qué operador lógico equivale a "Si $P$ entonces $Q$"?
+o	A) Bicondicional
+o	B) Implicación
+o	C) Disyunción
+o	D) Conjunción negativa
+o	Correcta: B
+19.	El número de aristas incidentes en un vértice se conoce como:
+o	A) Peso del vértice
+o	B) Camino del vértice
+o	C) Grado del vértice
+o	D) Ciclo del vértice
+o	Correcta: C
+20.	En álgebra booleana, ¿cuál es el equivalente a la suma lógica?
+o	A) Compuerta AND
+o	B) Compuerta NOT
+o	C) Compuerta OR
+o	D) Compuerta XOR
+o	Correcta: C
+21.	¿Qué es un subgrafo?
+o	A) Un grafo formado por todos los vértices y el doble de aristas
+o	B) Un grafo compuesto por un subconjunto de vértices y aristas del grafo original
+o	C) Un grafo que intersecta a otro grafo
+o	D) El complemento de un árbol
+o	Correcta: B
+22.	¿Cómo se define el producto cartesiano de dos conjuntos $A$ y $B$?
+o	A) La suma de sus cardinalidades
+o	B) El conjunto de todos los pares ordenados $(a,b)$
+o	C) Los elementos que están en $A$ o en $B$
+o	D) La división de sus elementos
+o	Correcta: B
+23.	En la proposición bicondicional ($P \iff Q$), ¿cuándo es verdadera?
+o	A) Solo cuando $P$ es verdadera
+o	B) Cuando ambas tienen valores de verdad distintos
+o	C) Cuando ambas tienen el mismo valor de verdad
+o	D) Solo cuando ambas son falsas
+o	Correcta: C
+24.	¿Qué es un paseo Euleriano?
+o	A) Un camino que visita cada vértice exactamente una vez
+o	B) Un camino que recorre cada arista exactamente una vez
+o	C) Un ciclo de longitud 3
+o	D) Un grafo conexo sin hojas
+o	Correcta: B
+25.	El principio de inducción matemática se utiliza comúnmente para:
+o	A) Demostrar que una propiedad se cumple para todos los números naturales
+o	B) Encontrar la raíz de una ecuación
+o	C) Calcular probabilidades finitas
+o	D) Graficar funciones no lineales
+o	Correcta: A
+Algoritmos y Lógica Computacional
+1.	¿Cuál es la definición más precisa de un algoritmo en computación?
+o	A) Un lenguaje de programación compilado
+o	B) Una secuencia finita y definida de pasos para resolver un problema
+o	C) Un error lógico en el código fuente
+o	D) Un componente de hardware de procesamiento
+o	Correcta: B
+2.	¿Cuáles son las tres características fundamentales de un buen algoritmo?
+o	A) Largo, complejo e infinito
+o	B) Preciso, definido y finito
+o	C) Abstracto, gráfico y recursivo
+o	D) Lógico, matemático y estadístico
+o	Correcta: B
+3.	¿Qué herramienta gráfica se utiliza para representar el flujo lógico de un algoritmo?
+o	A) Pseudocódigo
+o	B) Diagrama de Venn
+o	C) Diagrama de flujo
+o	D) Tabla de verdad
+o	Correcta: C
+4.	¿Qué es el pseudocódigo?
+o	A) Un lenguaje máquina de bajo nivel
+o	B) Una descripción en lenguaje natural estructurado de un algoritmo
+o	C) El código fuente ya compilado
+o	D) Un sistema operativo
+o	Correcta: B
+5.	En programación, ¿qué es una variable?
+o	A) Un valor que nunca cambia durante la ejecución
+o	B) Un espacio en memoria cuyo valor puede modificarse
+o	C) Una función matemática
+o	D) Un error de compilación
+o	Correcta: B
+6.	¿Qué tipo de dato lógico admite únicamente los valores Verdadero o Falso?
+o	A) Entero
+o	B) Flotante
+o	C) Carácter
+o	D) Booleano
+o	Correcta: D
+7.	¿Qué operador aritmético devuelve el residuo de una división entera?
+o	A) División (/)
+o	B) Multiplicación (*)
+o	C) Módulo (% o MOD)
+o	D) Potencia (^)
+o	Correcta: C
+8.	¿Qué estructura de control permite tomar decisiones basadas en una condición lógica?
+o	A) Secuencia simple
+o	B) Bucle FOR
+o	C) Condicional IF (Si-Entonces)
+o	D) Bucle WHILE
+o	Correcta: C
+9.	¿Qué estructura se utiliza para ejecutar un bloque de código múltiples veces mientras se cumpla una condición?
+o	A) Bucle WHILE (Mientras)
+o	B) Condicional SWITCH
+o	C) Arreglo
+o	D) Variable constante
+o	Correcta: A
+10.	Si conoces exactamente el número de iteraciones que debe dar un ciclo, ¿qué estructura repetitiva es la más adecuada?
+o	A) WHILE
+o	B) DO-WHILE
+o	C) FOR (Para)
+o	D) IF-ELSE
+o	Correcta: C
+11.	¿Qué es un "contador" dentro de un algoritmo iterativo?
+o	A) Una variable que acumula valores arbitrarios
+o	B) Una variable que incrementa o decrementa en un valor constante
+o	C) Una condición de salida
+o	D) Un error de desbordamiento
+o	Correcta: B
+12.	¿Cuál es la diferencia principal entre un contador y un acumulador?
+o	A) El contador suma valores variables; el acumulador suma valores constantes
+o	B) El contador suma valores constantes; el acumulador suma valores variables
+o	C) No hay diferencia, son lo mismo
+o	D) El acumulador solo funciona con booleanos
+o	Correcta: B
+13.	¿Qué es un bucle infinito?
+o	A) Un ciclo cuya condición de salida nunca se cumple
+o	B) Un ciclo que dura más de un segundo en ejecutarse
+o	C) Un algoritmo sin variables
+o	D) Un error de sintaxis en el código
+o	Correcta: A
+14.	¿Qué es un arreglo (array) o vector en lógica computacional?
+o	A) Una sola variable que almacena un único valor numérico
+o	B) Una estructura de datos estática que almacena una colección de elementos del mismo tipo
+o	C) Un ciclo repetitivo anidado
+o	D) Una función matemática compleja
+o	Correcta: B
+15.	En la mayoría de los lenguajes y pseudocódigos estándar, ¿con qué número suele iniciar el índice de un arreglo?
+o	A) 1
+o	B) -1
+o	C) 0
+o	D) N
+o	Correcta: C
+16.	A un arreglo bidimensional compuesto por filas y columnas se le conoce comúnmente como:
+o	A) Vector
+o	B) Registro
+o	C) Lista enlazada
+o	D) Matriz
+o	Correcta: D
+17.	¿Qué es una función o subrutina en un algoritmo?
+o	A) Un bloque de código independiente diseñado para realizar una tarea específica
+o	B) Un error en el ciclo FOR
+o	C) Una variable que cambia de tipo
+o	D) Una palabra reservada del sistema operativo
+o	Correcta: A
+18.	A los valores que se le envían a una función para que trabaje con ellos se les llama:
+o	A) Iteradores
+o	B) Parámetros o argumentos
+o	C) Índices
+o	D) Constantes globales
+o	Correcta: B
+19.	¿Qué concepto define a una función que se llama a sí misma dentro de su propio código?
+o	A) Polimorfismo
+o	B) Encapsulamiento
+o	C) Recursividad
+o	D) Iteración simple
+o	Correcta: C
+20.	En una estructura de decisión múltiple (SWITCH / CASE), ¿qué instrucción se usa típicamente para salir del bloque evaluado?
+o	A) CONTINUE
+o	B) BREAK o SALIR
+o	C) RETURN
+o	D) GOTO
+o	Correcta: B
+21.	¿Qué es la "prueba de escritorio"?
+o	A) Compilar el código en la computadora
+o	B) Ejecutar un programa de limpieza de memoria
+o	C) La simulación manual paso a paso de la ejecución de un algoritmo
+o	D) El diseño físico del diagrama de flujo en una mesa
+o	Correcta: C
+22.	El algoritmo de "Búsqueda Lineal" funciona:
+o	A) Dividiendo el arreglo por la mitad repetidamente
+o	B) Revisando cada elemento secuencialmente desde el principio hasta encontrar el valor
+o	C) Ordenando primero los elementos
+o	D) Aplicando una función hash
+o	Correcta: B
+23.	¿Cuál es el propósito del algoritmo de "Ordenamiento de Burbuja" (Bubble Sort)?
+o	A) Buscar un elemento en una lista
+o	B) Organizar los elementos de una estructura de datos secuencial de manera ascendente o descendente
+o	C) Eliminar datos duplicados
+o	D) Comprimir el tamaño de las variables
+o	Correcta: B
+24.	En lógica booleana, ¿cuál es el resultado de (Verdadero AND Falso) OR Verdadero?
+o	A) Falso
+o	B) Verdadero
+o	C) Indefinido
+o	D) Error lógico
+o	Correcta: B
+25.	Un algoritmo que determina si un número es par o impar utiliza típicamente la operación:
+o	A) Numero / 2 == 0
+o	B) Numero % 2 == 0
+o	C) Numero * 2 == 0
+o	D) Numero - 2 == 0
+o	Correcta: B
+2do Semestre
+Programación
+1.	¿Qué es un compilador?
+o	A) Un programa que ejecuta el código línea por línea
+o	B) Un programa que traduce el código fuente a lenguaje máquina de una sola vez
+o	C) Un editor de texto para escribir código
+o	D) Un sistema que detecta únicamente errores lógicos
+o	Correcta: B
+2.	En programación, ¿cuál es la diferencia principal entre una constante y una variable?
+o	A) La constante solo admite números y la variable texto
+o	B) La constante no puede cambiar su valor durante la ejecución, la variable sí
+o	C) La constante ocupa más espacio en la memoria RAM
+o	D) No hay diferencia, son sinónimos
+o	Correcta: B
+3.	¿Qué es el alcance (scope) de una variable local?
+o	A) Está disponible para todo el programa en cualquier archivo
+o	B) Solo existe y puede ser utilizada dentro de la función o bloque donde fue declarada
+o	C) Depende del sistema operativo donde se ejecute
+o	D) Permanece en memoria incluso después de cerrar el programa
+o	Correcta: B
+4.	¿Qué ocurre si la condición de un bucle WHILE nunca se vuelve falsa?
+o	A) El programa se cierra automáticamente por seguridad
+o	B) El bucle no se ejecuta ni una sola vez
+o	C) Se genera un bucle infinito
+o	D) El compilador corrige el error automáticamente
+o	Correcta: C
+5.	Al pasar una variable a una función "por referencia", ¿qué sucede?
+o	A) Se envía una copia del valor, protegiendo la variable original
+o	B) Se envía la dirección de memoria, permitiendo que la función modifique la variable original
+o	C) La variable se convierte en constante temporalmente
+o	D) La función solo puede leer la variable, pero no sobreescribirla
+o	Correcta: B
+6.	¿Qué operador lógico se utiliza para evaluar si dos condiciones son verdaderas al mismo tiempo?
+o	A) OR ( || )
+o	B) NOT ( ! )
+o	C) XOR ( ^ )
+o	D) AND ( && )
+o	Correcta: D
+7.	En un arreglo (array) de 10 elementos, ¿cuál es el índice del último elemento?
+o	A) 10
+o	B) 9
+o	C) 1
+o	D) 0
+o	Correcta: B
+8.	¿Qué es la recursividad en programación?
+o	A) Una función que se llama a sí misma para resolver un problema
+o	B) Un bucle FOR que cuenta en orden descendente
+o	C) Un error donde el programa se reinicia
+o	D) La capacidad de usar múltiples lenguajes en un mismo archivo
+o	Correcta: A
+9.	¿Cuál es la función principal de la sentencia BREAK en un bucle?
+o	A) Pausar la ejecución por unos segundos
+o	B) Saltar a la siguiente iteración del bucle
+o	C) Terminar la ejecución del bucle inmediatamente
+o	D) Cerrar el programa por completo
+o	Correcta: C
+10.	¿Qué diferencia a un error de sintaxis de un error lógico?
+o	A) El error lógico lo detecta el compilador, el de sintaxis el usuario
+o	B) El error de sintaxis impide compilar el código; el lógico permite compilar pero da un resultado incorrecto
+o	C) El error de sintaxis solo ocurre en bases de datos
+o	D) Son exactamente lo mismo
+o	Correcta: B
+11.	¿Qué tipo de dato es el más adecuado para almacenar el nombre de un usuario?
+o	A) Integer (Entero)
+o	B) Float (Flotante)
+o	C) Boolean (Booleano)
+o	D) String (Cadena de caracteres)
+o	Correcta: D
+12.	¿Qué es un IDE (Entorno de Desarrollo Integrado)?
+o	A) Un tipo de variable dinámica
+o	B) Un software que incluye editor de código, compilador y depurador en una sola interfaz
+o	C) Un protocolo de red para transferir código
+o	D) El lenguaje de máquina de un procesador
+o	Correcta: B
+13.	¿Qué hace la sentencia CONTINUE dentro de un ciclo?
+o	A) Sale del ciclo definitivamente
+o	B) Salta el resto del código en esa iteración y pasa a la siguiente
+o	C) Reinicia el ciclo desde cero
+o	D) Llama a una función externa
+o	Correcta: B
+14.	En Programación Orientada a Objetos, ¿qué es la "Encapsulación"?
+o	A) Ocultar los detalles internos de un objeto y proteger sus datos
+o	B) Crear objetos a partir de otros objetos
+o	C) Permitir que una función tenga múltiples comportamientos
+o	D) Comprimir el código fuente para que pese menos
+o	Correcta: A
+15.	¿Qué es un puntero (pointer)?
+o	A) Una variable que almacena texto cifrado
+o	B) Una variable que almacena la dirección de memoria de otra variable
+o	C) Un dispositivo de hardware
+o	D) El punto de inicio de un programa
+o	Correcta: B
+16.	La conversión explícita de un tipo de dato a otro (por ejemplo, de decimal a entero) se conoce como:
+o	A) Debugging
+o	B) Casting (o Typecasting)
+o	C) Parsing
+o	D) Compiling
+o	Correcta: B
+17.	¿Para qué se utiliza comúnmente la estructura SWITCH / CASE?
+o	A) Para crear bucles infinitos controlados
+o	B) Para sustituir múltiples sentencias IF-ELSE IF evaluando una misma variable
+o	C) Para conectar el código a una base de datos
+o	D) Para declarar arreglos multidimensionales
+o	Correcta: B
+18.	En una matriz de dos dimensiones, ¿qué representan convencionalmente el primer y segundo índice?
+o	A) [Profundidad] y [Ancho]
+o	B) [Valor] y [Referencia]
+o	C) [Fila] y [Columna]
+o	D) [Positivo] y [Negativo]
+o	Correcta: C
+19.	¿Qué significa concatenar en programación?
+o	A) Unir dos o más cadenas de texto en una sola
+o	B) Dividir un número entero en decimales
+o	C) Buscar un elemento dentro de un arreglo
+o	D) Borrar variables de la memoria RAM
+o	Correcta: A
+20.	Una función que no devuelve ningún valor al finalizar su ejecución, generalmente se declara con el tipo de retorno:
+o	A) Null
+o	B) Int
+o	C) Void
+o	D) String
+o	Correcta: C
+21.	¿Qué es una excepción en programación?
+o	A) Una regla de sintaxis que puede ser ignorada
+o	B) Un evento anómalo o error que ocurre durante la ejecución de un programa
+o	C) Un privilegio de administrador
+o	D) Una función de carga rápida
+o	Correcta: B
+22.	Si evalúas la expresión (5 > 3) AND (8 < 2), ¿cuál es el resultado?
+o	A) Verdadero
+o	B) Falso
+o	C) Error de compilación
+o	D) Nulo
+o	Correcta: B
+23.	¿Cuál es el propósito del operador de asignación (=)?
+o	A) Comparar si dos valores son idénticos
+o	B) Guardar un valor específico dentro de una variable
+o	C) Sumar dos variables
+o	D) Retornar el resultado de una función
+o	Correcta: B
+24.	¿Qué es el "Debugging" (Depuración)?
+o	A) El proceso de diseñar la interfaz gráfica del usuario
+o	B) El proceso de identificar, aislar y corregir errores en el código
+o	C) Instalar el programa en el servidor final
+o	D) Escribir el pseudocódigo antes de programar
+o	Correcta: B
+25.	Un arreglo que almacena [10, 20, 30, 40]. ¿Qué valor obtienes si llamas a la posición 2?
+o	A) 10
+o	B) 20
+o	C) 30
+o	D) 40
+o	Correcta: C
+Sistemas Operativos
+1.	¿Cuál es la definición principal de un Sistema Operativo?
+o	A) Un conjunto de componentes de hardware
+o	B) El software base que administra los recursos del hardware y actúa como intermediario con el usuario
+o	C) Un programa exclusivamente diseñado para navegar por internet
+o	D) Un lenguaje de bajo nivel
+o	Correcta: B
+2.	¿Qué es el "Kernel" (Núcleo) de un sistema operativo?
+o	A) La interfaz gráfica que ve el usuario
+o	B) La parte central del SO que gestiona la memoria, los procesos y el hardware
+o	C) El disco duro externo
+o	D) El software antivirus preinstalado
+o	Correcta: B
+3.	El programa que interpreta los comandos del usuario y los envía al núcleo del sistema (por ejemplo, Bash en entornos Linux) se conoce como:
+o	A) Shell (Intérprete de comandos)
+o	B) Interfaz Gráfica (GUI)
+o	C) Gestor de arranque (Bootloader)
+o	D) Controlador de dispositivo (Driver)
+o	Correcta: A
+4.	¿Qué es un proceso en el contexto de sistemas operativos?
+o	A) Un componente físico de la tarjeta madre
+o	B) Un programa en ejecución, que incluye su código, datos y estado actual
+o	C) Una carpeta comprimida
+o	D) Una falla en la memoria RAM
+o	Correcta: B
+5.	En un sistema operativo orientado a servidores, la capacidad de ejecutar múltiples procesos simultáneamente intercalando el uso del CPU se llama:
+o	A) Fragmentación
+o	B) Multitarea (Multitasking)
+o	C) Paginación
+o	D) Encapsulamiento
+o	Correcta: B
+6.	¿Qué es un "Hilo" (Thread)?
+o	A) Un cable de conexión de red
+o	B) La unidad más pequeña de procesamiento que puede ser planificada por un sistema operativo dentro de un proceso
+o	C) Un virus informático
+o	D) Una partición del disco duro
+o	Correcta: B
+7.	¿Qué es un cambio de contexto (Context Switch)?
+o	A) Cambiar el idioma del teclado
+o	B) El proceso de guardar el estado de un proceso y cargar el estado de otro en el CPU
+o	C) Mover un archivo de una carpeta a otra
+o	D) Reiniciar el sistema operativo
+o	Correcta: B
+8.	En la planificación de procesos, ¿qué algoritmo asigna a cada proceso una pequeña fracción de tiempo de CPU de forma cíclica?
+o	A) FIFO (First In, First Out)
+o	B) Round Robin
+o	C) SJF (Shortest Job First)
+o	D) Prioridad
+o	Correcta: B
+9.	¿Qué es el "Deadlock" (Interbloqueo)?
+o	A) Una situación donde dos o más procesos se bloquean mutuamente esperando recursos que el otro tiene
+o	B) Cuando el disco duro se queda sin espacio
+o	C) Un pantallazo azul debido a un fallo de hardware
+o	D) Una desconexión repentina de la red
+o	Correcta: A
+10.	¿Cuál es la función de la Memoria Virtual?
+o	A) Aumentar la velocidad del procesador físicamente
+o	B) Usar una parte del disco de almacenamiento como si fuera memoria RAM adicional
+o	C) Almacenar datos en la nube de forma automática
+o	D) Comprimir archivos grandes
+o	Correcta: B
+11.	¿Qué es la "Paginación" en la gestión de memoria?
+o	A) Imprimir documentos desde el sistema operativo
+o	B) Dividir la memoria física en bloques de tamaño fijo llamados marcos y la memoria lógica en bloques llamados páginas
+o	C) Ordenar los archivos por tamaño
+o	D) Asignar contraseñas a las carpetas
+o	Correcta: B
+12.	Un sistema operativo diseñado específicamente para gestionar infraestructuras, alojar dominios o bases de datos (por ejemplo, Windows Server), se clasifica principalmente como:
+o	A) Sistema Operativo Embebido
+o	B) Sistema Operativo de Red / Servidor
+o	C) Sistema Operativo Móvil
+o	D) Sistema Operativo de Tiempo Real
+o	Correcta: B
+13.	¿Qué componente del SO es responsable de organizar cómo se almacenan y recuperan los datos en el disco (ej. NTFS, FAT32, ext4)?
+o	A) El gestor de procesos
+o	B) El sistema de archivos (File System)
+o	C) El gestor de ventanas
+o	D) El desfragmentador
+o	Correcta: B
+14.	En sistemas basados en Unix/Linux, ¿cómo se representa el directorio raíz (el nivel más alto en la jerarquía)?
+o	A) C:\
+o	B) /
+o	C) ~
+o	D) ROOT:
+o	Correcta: B
+15.	¿Qué es una Llamada al Sistema (System Call)?
+o	A) Una notificación de actualización de software
+o	B) El mecanismo que usa un programa de usuario para solicitar un servicio privilegiado al Kernel
+o	C) Una videollamada por internet
+o	D) El pitido inicial al encender la computadora
+o	Correcta: B
+16.	¿Qué función cumplen los Controladores de Dispositivo (Drivers)?
+o	A) Actúan como traductores entre el sistema operativo y un dispositivo de hardware específico
+o	B) Son programas para diseñar interfaces de usuario
+o	C) Protegen el equipo contra malware
+o	D) Controlan el ancho de banda de internet
+o	Correcta: A
+17.	¿Qué es una interrupción (Interrupt) en el hardware?
+o	A) Un apagón repentino
+o	B) Una señal enviada al CPU para indicar que un evento requiere atención inmediata, pausando la tarea actual
+o	C) Un error al intentar acceder a una página web
+o	D) El cierre forzado de un programa
+o	Correcta: B
+18.	En el sistema de permisos estándar de Linux, los tres derechos básicos sobre un archivo son:
+o	A) Copiar, Pegar, Cortar
+o	B) Leer (Read), Escribir (Write), Ejecutar (Execute)
+o	C) Ver, Ocultar, Borrar
+o	D) Subir, Descargar, Compartir
+o	Correcta: B
+19.	¿Qué es el "Spooling" (comúnmente usado en impresoras)?
+o	A) El proceso de enviar correos masivos
+o	B) Almacenar datos temporalmente en un búfer (como el disco) para que un dispositivo más lento los procese a su ritmo
+o	C) Un protocolo de seguridad
+o	D) Cambiar la resolución de la pantalla
+o	Correcta: B
+20.	La separación entre el "Modo Usuario" y el "Modo Kernel" sirve principalmente para:
+o	A) Proteger el sistema operativo evitando que aplicaciones de usuario ejecuten instrucciones críticas directamente
+o	B) Crear diferentes perfiles visuales
+o	C) Ahorrar energía en la batería
+o	D) Dividir la pantalla en dos
+o	Correcta: A
+21.	¿Qué es el proceso de "Bootstrapping" (Arranque)?
+o	A) Instalar un programa desde un USB
+o	B) La secuencia inicial de carga del sistema operativo en la memoria RAM al encender el equipo
+o	C) Formatear el disco duro
+o	D) Conectarse a una red WiFi por primera vez
+o	Correcta: B
+22.	En sistemas operativos, un "Demonio" (Daemon) o Servicio es:
+o	A) Un virus residente en memoria
+o	B) Un proceso que se ejecuta en segundo plano realizando tareas del sistema sin intervención directa del usuario
+o	C) Un programa que borra archivos inútiles
+o	D) El avatar de un usuario administrador
+o	Correcta: B
+23.	¿Qué problema soluciona la Desfragmentación de un disco magnético?
+o	A) Elimina archivos duplicados
+o	B) Reorganiza los bloques de datos dispersos de un archivo para que estén contiguos y se lean más rápido
+o	C) Aumenta la capacidad total del disco en gigabytes
+o	D) Repara sectores físicamente dañados
+o	Correcta: B
+24.	El fenómeno de "Thrashing" (Hiperpaginación) ocurre cuando:
+o	A) El sistema gasta más tiempo intercambiando páginas de memoria con el disco que ejecutando procesos
+o	B) El ventilador del CPU gira a su máxima velocidad
+o	C) La red sufre una sobrecarga de paquetes
+o	D) Dos usuarios inician sesión al mismo tiempo
+o	Correcta: A
+25.	Un sistema operativo Monolítico se caracteriza porque:
+o	A) Está diseñado para un solo usuario
+o	B) Todo el núcleo del sistema operativo (gestión de memoria, procesos, red) opera en el mismo espacio de memoria privilegiado
+o	C) Solo funciona en computadoras sin interfaz gráfica
+o	D) Se ejecuta exclusivamente desde un CD-ROM
+o	Correcta: B
+3er Semestre
+Ensamblador (Lenguaje Ensamblador)
+1.	¿Qué nivel de abstracción tiene el lenguaje ensamblador?
+o	A) Lenguaje de alto nivel
+o	B) Lenguaje de muy alto nivel
+o	C) Lenguaje de bajo nivel
+o	D) Lenguaje interpretado
+o	Correcta: C
+2.	¿Cuál es la función principal de un programa ensamblador (assembler)?
+o	A) Traducir el código ensamblador a lenguaje máquina (binario)
+o	B) Ejecutar el código línea por línea en tiempo real
+o	C) Diseñar interfaces gráficas de usuario
+o	D) Optimizar bases de datos relacionales
+o	Correcta: A
+3.	En la arquitectura de un procesador, ¿qué es un registro?
+o	A) Un disco duro externo
+o	B) Una memoria de almacenamiento a largo plazo
+o	C) Una pequeña y ultrarrápida ubicación de memoria dentro del propio CPU
+o	D) El bus de datos de la tarjeta madre
+o	Correcta: C
+4.	En la arquitectura x86, ¿cuál es comúnmente conocido como el registro "Acumulador", usado para operaciones aritméticas?
+o	A) CX / ECX
+o	B) AX / EAX
+o	C) BX / EBX
+o	D) DX / EDX
+o	Correcta: B
+5.	¿Qué registro del procesador almacena la dirección de la siguiente instrucción que se va a ejecutar?
+o	A) Puntero de Pila (SP / ESP)
+o	B) Registro Base (BX / EBX)
+o	C) Contador de Programa (IP / EIP / PC)
+o	D) Registro de Banderas (FLAGS)
+o	Correcta: C
+6.	¿Qué hace la instrucción MOV en ensamblador?
+o	A) Mueve el procesador a un estado de suspensión
+o	B) Copia el dato de un origen a un destino
+o	C) Elimina una variable de la memoria
+o	D) Multiplica dos registros
+o	Correcta: B
+7.	¿Qué instrucción se utiliza típicamente para comparar dos valores antes de realizar un salto condicional?
+o	A) CMP
+o	B) JMP
+o	C) ADD
+o	D) SUB
+o	Correcta: A
+8.	Después de una operación matemática cuyo resultado es exactamente cero, ¿qué bandera (flag) se activa en el procesador?
+o	A) Carry Flag (CF)
+o	B) Overflow Flag (OF)
+o	C) Sign Flag (SF)
+o	D) Zero Flag (ZF)
+o	Correcta: D
+9.	En los antiguos sistemas DOS/BIOS de 16 bits, ¿cómo se pasaban comúnmente los parámetros antes de llamar a una interrupción (ej. INT 21h)?
+o	A) A través de un archivo de texto
+o	B) Colocando los valores específicos en los registros del CPU
+o	C) Usando variables globales en C++
+o	D) Por medio del puerto USB
+o	Correcta: B
+10.	¿Qué hace la instrucción PUSH?
+o	A) Coloca un valor en la parte superior de la Pila (Stack)
+o	B) Saca un valor de la Pila
+o	C) Empuja el disco duro para expulsarlo
+o	D) Suma 1 a un registro
+o	Correcta: A
+11.	¿Qué principio de organización de datos sigue la Pila (Stack) en ensamblador?
+o	A) FIFO (First In, First Out)
+o	B) LIFO (Last In, First Out)
+o	C) Aleatorio
+o	D) Secuencial indexado
+o	Correcta: B
+12.	¿Qué instrucción retira (saca) el último elemento guardado en la Pila y lo guarda en un registro?
+o	A) PULL
+o	B) PUSH
+o	C) POP
+o	D) RET
+o	Correcta: C
+13.	¿Qué es una "etiqueta" (label) en el código fuente de ensamblador?
+o	A) Un comentario oculto
+o	B) Un identificador simbólico que representa una dirección de memoria o una línea de código
+o	C) Una variable flotante
+o	D) Un error de compilación
+o	Correcta: B
+14.	¿Cuál de las siguientes instrucciones realiza un "salto incondicional" (salta siempre sin evaluar nada)?
+o	A) JE (Jump if Equal)
+o	B) JNZ (Jump if Not Zero)
+o	C) JMP (Jump)
+o	D) JG (Jump if Greater)
+o	Correcta: C
+15.	¿Qué hace internamente la instrucción CALL al invocar una subrutina?
+o	A) Borra la memoria RAM y salta a la subrutina
+o	B) Guarda la dirección de retorno en la Pila y luego salta a la subrutina
+o	C) Cierra el programa actual
+o	D) Pide datos al usuario por teclado
+o	Correcta: B
+16.	¿Qué instrucción se utiliza al final de una subrutina para volver al punto donde fue llamada?
+o	A) END
+o	B) EXIT
+o	C) RET (Return)
+o	D) STOP
+o	Correcta: C
+17.	¿Cuál es el propósito de la instrucción INC?
+o	A) Incluir un archivo externo
+o	B) Incrementar el valor de un operando en 1
+o	C) Inicializar el procesador
+o	D) Invertir los bits de un registro
+o	Correcta: B
+18.	¿Qué instrucción lógica realiza la operación donde el resultado es 1 solo si ambos bits comparados son 1?
+o	A) OR
+o	B) XOR
+o	C) NOT
+o	D) AND
+o	Correcta: D
+19.	El formato "Little-Endian" significa que:
+o	A) Los datos se guardan en la nube
+o	B) El byte menos significativo se almacena en la dirección de memoria más baja
+o	C) El byte más significativo se almacena en la dirección de memoria más baja
+o	D) Todos los bytes se invierten bit a bit
+o	Correcta: B
+20.	En sintaxis MASM/TASM, ¿qué directiva se usa para definir o reservar un Byte de memoria?
+o	A) DW (Define Word)
+o	B) DD (Define Doubleword)
+o	C) DB (Define Byte)
+o	D) DQ (Define Quadword)
+o	Correcta: C
+21.	¿Qué es una macro en lenguaje ensamblador?
+o	A) Un virus informático
+o	B) Un bloque de instrucciones al que se le da un nombre y que el ensamblador expande en el código donde sea invocado
+o	C) Un dispositivo de hardware para acelerar los gráficos
+o	D) El núcleo del sistema operativo
+o	Correcta: B
+22.	¿Qué instrucción se utiliza para desplazar todos los bits de un operando hacia la izquierda (Shift Left)?
+o	A) SHR
+o	B) SHL
+o	C) ROL
+o	D) ROR
+o	Correcta: B
+23.	¿Qué efecto tiene la instrucción NOP?
+o	A) Apaga el equipo
+o	B) No hace ninguna operación, solo consume un ciclo de reloj y avanza el PC
+o	C) Niega el valor de una variable booleana
+o	D) Limpia la pantalla de la consola
+o	Correcta: B
+24.	Si sumas dos números positivos y el resultado es tan grande que invade el bit de signo volviéndose "negativo", ¿qué bandera se activa?
+o	A) Parity Flag (PF)
+o	B) Zero Flag (ZF)
+o	C) Overflow Flag (OF - Desbordamiento)
+o	D) Direction Flag (DF)
+o	Correcta: C
+25.	Cuando una instrucción incluye directamente el número o valor exacto con el que va a trabajar (ej. MOV AX, 5), ¿qué modo de direccionamiento se está usando?
+o	A) Direccionamiento Indirecto
+o	B) Direccionamiento Indexado
+o	C) Direccionamiento Base
+o	D) Direccionamiento Inmediato
+o	Correcta: D
+Estructura de Datos
+1.	¿Cómo se define una Estructura de Datos?
+o	A) Es el diseño físico de los componentes de la tarjeta madre
+o	B) Una forma particular de organizar, almacenar y gestionar datos en la computadora para que puedan ser usados eficientemente
+o	C) Un tipo de cable de red
+o	D) El diagrama visual de una base de datos SQL
+o	Correcta: B
+2.	¿Qué estructura de datos lineal funciona bajo el principio LIFO (El último en entrar es el primero en salir)?
+o	A) Pila (Stack)
+o	B) Cola (Queue)
+o	C) Árbol
+o	D) Grafo
+o	Correcta: A
+3.	¿Qué estructura de datos lineal funciona bajo el principio FIFO (El primero en entrar es el primero en salir)?
+o	A) Pila (Stack)
+o	B) Cola (Queue)
+o	C) Lista circular doble
+o	D) Matriz
+o	Correcta: B
+4.	En una lista enlazada (Linked List), ¿qué contiene fundamentalmente un "Nodo"?
+o	A) Únicamente un número entero
+o	B) El dato a almacenar y un puntero/referencia al siguiente nodo
+o	C) La dirección IP del servidor
+o	D) Dos datos numéricos
+o	Correcta: B
+5.	¿Cuál es una ventaja principal de las Listas Enlazadas sobre los Arreglos (Arrays) tradicionales?
+o	A) Son más fáciles de ordenar
+o	B) Permiten un acceso aleatorio (por índice) más rápido
+o	C) Su tamaño es dinámico y pueden crecer o encogerse fácilmente en tiempo de ejecución
+o	D) Ocupan menos memoria estática
+o	Correcta: C
+6.	¿Cómo se le llama a la operación de insertar un elemento en la parte superior de una Pila?
+o	A) Pop
+o	B) Enqueue
+o	C) Push
+o	D) Peek
+o	Correcta: C
+7.	¿Cómo se le llama a la operación de extraer un elemento de una Cola?
+o	A) Push
+o	B) Pop
+o	C) Enqueue (Encolar)
+o	D) Dequeue (Desencolar)
+o	Correcta: D
+8.	¿Qué caracteriza a una Lista Doblemente Enlazada?
+o	A) Contiene el doble de datos en cada nodo
+o	B) Cada nodo tiene un puntero al siguiente nodo y otro al nodo anterior
+o	C) Solo puede almacenar números pares
+o	D) Es imposible de recorrer de principio a fin
+o	Correcta: B
+9.	¿Qué es un Árbol Binario?
+o	A) Una estructura donde cada nodo puede tener infinitos hijos
+o	B) Una estructura jerárquica donde cada nodo tiene como máximo dos hijos (izquierdo y derecho)
+o	C) Un arreglo unidimensional ordenado
+o	D) Un grafo donde todos los nodos están conectados entre sí
+o	Correcta: B
+10.	En un Árbol Binario de Búsqueda (BST), ¿qué regla general se aplica para insertar elementos?
+o	A) Los valores menores que la raíz van a la izquierda, los mayores a la derecha
+o	B) Los valores se insertan de arriba a abajo, de derecha a izquierda
+o	C) Los valores pares van a la izquierda, los impares a la derecha
+o	D) No hay ninguna regla, se insertan aleatoriamente
+o	Correcta: A
+11.	Al recorrer un Árbol Binario, ¿qué método visita primero la Raíz, luego el subárbol Izquierdo y finalmente el Derecho (Raíz-Izq-Der)?
+o	A) Inorden
+o	B) Postorden
+o	C) Preorden
+o	D) Por niveles
+o	Correcta: C
+12.	Si aplicas un recorrido "Inorden" (Izq-Raíz-Der) a un Árbol Binario de Búsqueda, ¿cuál es el resultado?
+o	A) Los datos salen ordenados de forma descendente
+o	B) Los datos salen ordenados de forma ascendente
+o	C) Solo se imprimen las hojas
+o	D) El árbol se destruye
+o	Correcta: B
+13.	¿Cómo se le llama al nodo superior de un árbol, el cual no tiene padre?
+o	A) Nodo Hoja
+o	B) Nodo Hermano
+o	C) Nodo Raíz
+o	D) Nodo Rama
+o	Correcta: C
+14.	En la terminología de árboles, ¿qué es un nodo "Hoja" (Leaf)?
+o	A) El nodo más alto del árbol
+o	B) Un nodo que no tiene ningún hijo
+o	C) Un nodo con exactamente dos hijos
+o	D) Un nodo que actúa como puntero temporal
+o	Correcta: B
+15.	¿De qué componentes principales está formado un Grafo?
+o	A) Raíces y Hojas
+o	B) Vértices (Nodos) y Aristas (Enlaces)
+o	C) Pilas y Colas
+o	D) Índices y Llaves
+o	Correcta: B
+16.	¿Cuál es la diferencia entre un grafo dirigido y uno no dirigido?
+o	A) El dirigido no tiene ciclos
+o	B) En el dirigido, las aristas tienen una dirección específica (flechas), en el no dirigido la conexión es bidireccional por defecto
+o	C) El no dirigido no tiene vértices
+o	D) El dirigido solo puede tener 10 nodos
+o	Correcta: B
+17.	¿Qué es una Tabla Hash (Hash Table / Diccionario)?
+o	A) Una tabla de Excel incrustada en el código
+o	B) Una estructura que asocia llaves con valores, utilizando una función hash para calcular un índice donde guardar el elemento
+o	C) Un árbol binario perfectamente balanceado
+o	D) Una lista simple sin ordenar
+o	Correcta: B
+18.	En una Tabla Hash, ¿qué es una "colisión"?
+o	A) Cuando la memoria RAM se agota
+o	B) Cuando el programa intenta borrar un dato que no existe
+o	C) Cuando la función hash genera el mismo índice para dos llaves diferentes
+o	D) Cuando dos tablas intentan fusionarse
+o	Correcta: C
+19.	¿Para qué se utiliza la Notación Big O (O Grande) en estructuras de datos y algoritmos?
+o	A) Para declarar variables globales grandes
+o	B) Para describir la complejidad asintótica (tiempo de ejecución o uso de memoria) de un algoritmo en el peor de los casos
+o	C) Para encriptar la información del usuario
+o	D) Para medir la cantidad de líneas de código
+o	Correcta: B
+20.	En un arreglo estático, ¿cuál es la complejidad temporal (Big O) típica para acceder a un elemento si conoces su índice?
+o	A) O(n)
+o	B) O(log n)
+o	C) O(1) (Tiempo Constante)
+o	D) O(n^2)
+o	Correcta: C
+21.	¿Qué estructura de datos es la que utiliza el sistema operativo internamente para gestionar las llamadas a funciones y la recursividad?
+o	A) Cola
+o	B) Pila (Call Stack)
+o	C) Grafo
+o	D) Tabla Hash
+o	Correcta: B
+22.	¿Qué es una "Cola Circular"?
+o	A) Una cola en la que el último elemento apunta de nuevo al primero, reutilizando espacios vacíos tras desencolar
+o	B) Una cola que solo acepta números con decimales
+o	C) Una estructura que gira los datos cada 5 segundos
+o	D) Un árbol donde todos los nodos están en el mismo nivel
+o	Correcta: A
+23.	¿Qué es un "Heap" o Montículo?
+o	A) Un tipo de variable booleana
+o	B) Un árbol binario especializado que satisface la "propiedad de montículo" (ej. el padre siempre es mayor que sus hijos)
+o	C) Una base de datos en la nube
+o	D) Un arreglo desordenado
+o	Correcta: B
+24.	En un Árbol Binario de Búsqueda perfectamente balanceado, ¿cuál es la complejidad temporal para buscar un elemento?
+o	A) O(n)
+o	B) O(1)
+o	C) O(log n)
+o	D) O(n^2)
+o	Correcta: C
+25.	¿Qué estructura de datos es la ideal para implementar un recorrido de "Búsqueda en Anchura" (BFS) en un grafo?
+o	A) Pila (Stack)
+o	B) Cola (Queue)
+o	C) Lista doblemente enlazada
+o	D) Árbol Binario
+o	Correcta: B
+4to Semestre
+Fundamentos de Base de Datos
+1.	¿Qué significan las siglas SGBD (o DBMS en inglés)?
+o	A) Sistema Global de Búsqueda Digital
+o	B) Sistema Gestor de Bases de Datos
+o	C) Servicio General de Bytes y Datos
+o	D) Software de Gestión de Bits Dinámicos
+o	Correcta: B
+2.	En el Modelo Entidad-Relación, ¿qué representa una "Entidad"?
+o	A) Una instrucción en lenguaje SQL
+o	B) Un objeto, persona o concepto del mundo real del cual se quiere guardar información
+o	C) Un error de conexión en la red
+o	D) El tipo de dato de una columna
+o	Correcta: B
+3.	En un diagrama Entidad-Relación tradicional (modelo de Chen), ¿con qué figura geométrica se representa una Entidad?
+o	A) Rombo
+o	B) Círculo
+o	C) Rectángulo
+o	D) Triángulo
+o	Correcta: C
+4.	¿Qué figura se utiliza para representar una "Relación" en el modelo E-R de Chen?
+o	A) Rombo
+o	B) Óvalo
+o	C) Rectángulo
+o	D) Línea punteada
+o	Correcta: A
+5.	¿Qué es un "Atributo" en el diseño de bases de datos?
+o	A) La contraseña del administrador
+o	B) Cada una de las características o propiedades que describen a una entidad
+o	C) La conexión física entre dos servidores
+o	D) Una copia de seguridad de los datos
+o	Correcta: B
+6.	¿Qué es una Llave Primaria (Primary Key)?
+o	A) El primer registro ingresado en una tabla
+o	B) Un atributo o conjunto de atributos que identifica de manera única a cada registro en una tabla
+o	C) La contraseña para abrir la base de datos
+o	D) Un campo que siempre debe tener valor nulo
+o	Correcta: B
+7.	¿Qué función cumple una Llave Foránea (Foreign Key)?
+o	A) Encriptar los datos de una columna
+o	B) Crear una relación entre dos tablas referenciando la llave primaria de otra tabla
+o	C) Borrar registros duplicados automáticamente
+o	D) Exportar la base de datos a otro servidor
+o	Correcta: B
+8.	En el diseño de bases de datos, ¿qué significa una cardinalidad 1:N?
+o	A) Uno a Muchos
+o	B) Uno a Uno
+o	C) Muchos a Muchos
+o	D) Nulo a Uno
+o	Correcta: A
+9.	¿Cuál de los siguientes es un problema común que la "Normalización" busca resolver?
+o	A) La falta de espacio en el disco duro del usuario
+o	B) La redundancia de datos y las anomalías de actualización
+o	C) La velocidad del procesador
+o	D) El diseño de la interfaz gráfica de la aplicación
+o	Correcta: B
+10.	Para que una tabla se considere en Primera Forma Normal (1NF), ¿qué regla debe cumplir obligatoriamente?
+o	A) Debe tener al menos 100 registros
+o	B) Todos sus atributos deben ser atómicos (indivisibles) y no tener grupos repetidos
+o	C) No debe tener llaves foráneas
+o	D) Debe estar conectada a internet
+o	Correcta: B
+11.	Una tabla está en Segunda Forma Normal (2NF) si ya está en 1NF y además:
+o	A) Se han eliminado todas las llaves primarias
+o	B) Ningún atributo no clave depende de una parte de la llave primaria compuesta (no hay dependencias parciales)
+o	C) Tiene una copia de seguridad en la nube
+o	D) Todos los valores son numéricos
+o	Correcta: B
+12.	Una tabla alcanza la Tercera Forma Normal (3NF) cuando cumple la 2NF y:
+o	A) Se eliminan las dependencias transitivas (ningún atributo no clave depende de otro atributo no clave)
+o	B) Se combinan todas las tablas en una sola
+o	C) Se encriptan todas las contraseñas
+o	D) El número de columnas es impar
+o	Correcta: A
+13.	¿Qué significan las siglas ACID en el contexto de las transacciones de bases de datos?
+o	A) Análisis, Control, Integración, Desarrollo
+o	B) Algoritmo, Código, Interfaz, Datos
+o	C) Atomicidad, Consistencia, Aislamiento, Durabilidad
+o	D) Actualización, Creación, Inserción, Despliegue
+o	Correcta: C
+14.	En álgebra relacional, ¿qué operación se utiliza para seleccionar columnas específicas de una tabla?
+o	A) Proyección
+o	B) Selección
+o	C) Unión
+o	D) Diferencia
+o	Correcta: A
+15.	En el lenguaje SQL, ¿qué comando pertenece al grupo DDL (Lenguaje de Definición de Datos)?
+o	A) SELECT
+o	B) INSERT
+o	C) UPDATE
+o	D) CREATE
+o	Correcta: D
+16.	¿Qué comandos pertenecen al grupo DML (Lenguaje de Manipulación de Datos)?
+o	A) CREATE, ALTER, DROP
+o	B) GRANT, REVOKE
+o	C) INSERT, UPDATE, DELETE
+o	D) COMMIT, ROLLBACK
+o	Correcta: C
+17.	En SQL, ¿qué cláusula se utiliza para filtrar los resultados basándose en una condición específica?
+o	A) ORDER BY
+o	B) WHERE
+o	C) GROUP BY
+o	D) SELECT
+o	Correcta: B
+18.	¿Qué palabra reservada se usa en SQL para evitar resultados duplicados en una consulta?
+o	A) UNIQUE
+o	B) DISTINCT
+o	C) ONLY
+o	D) SINGLE
+o	Correcta: B
+19.	¿Cuál es el propósito de la cláusula ORDER BY en SQL?
+o	A) Borrar las tablas en orden alfabético
+o	B) Agrupar filas con valores idénticos
+o	C) Ordenar el conjunto de resultados de forma ascendente o descendente
+o	D) Asignar permisos a los usuarios
+o	Correcta: C
+20.	En SQL, ¿qué operación combina las filas de dos tablas basándose en una columna relacionada entre ellas?
+o	A) JOIN
+o	B) SPLIT
+o	C) MERGE
+o	D) CONCAT
+o	Correcta: A
+21.	¿Qué tipo de JOIN devuelve únicamente las filas que tienen coincidencias en ambas tablas?
+o	A) LEFT JOIN
+o	B) RIGHT JOIN
+o	C) FULL OUTER JOIN
+o	D) INNER JOIN
+o	Correcta: D
+22.	¿Qué es un "Índice" en una base de datos?
+o	A) El manual de usuario del sistema
+o	B) Una estructura de datos especial que mejora la velocidad de las consultas (lectura)
+o	C) Una tabla que almacena todas las contraseñas
+o	D) Un error de compilación
+o	Correcta: B
+23.	¿Qué función agregada en SQL se utiliza para contar el número total de filas que devuelve una consulta?
+o	A) SUM()
+o	B) MAX()
+o	C) COUNT()
+o	D) AVG()
+o	Correcta: C
+24.	En el modelo E-R, un atributo "Multivaluado" (como los números de teléfono de una persona) se representa gráficamente con:
+o	A) Un rectángulo doble
+o	B) Un óvalo doble
+o	C) Una línea punteada
+o	D) Un triángulo
+o	Correcta: B
+25.	En SQL, ¿qué comando se usa para deshacer una transacción que aún no se ha guardado permanentemente?
+o	A) COMMIT
+o	B) ROLLBACK
+o	C) RESTART
+o	D) UNDO
+o	Correcta: B
+Programación Orientada a Objetos (POO)
+1.	¿Qué es una "Clase" en la Programación Orientada a Objetos?
+o	A) Un tipo de variable que solo almacena texto
+o	B) Una plantilla o molde a partir del cual se crean los objetos
+o	C) El archivo ejecutable final de un programa
+o	D) Una función matemática
+o	Correcta: B
+2.	¿Qué es un "Objeto" en POO?
+o	A) Una instancia concreta creada a partir de una clase
+o	B) Un error en el código fuente
+o	C) Un editor de texto para programar
+o	D) Un ciclo iterativo infinito
+o	Correcta: A
+3.	¿Cuáles son los cuatro pilares fundamentales de la POO?
+o	A) Recursividad, Iteración, Variables, Constantes
+o	B) Clases, Objetos, Métodos, Atributos
+o	C) Abstracción, Encapsulamiento, Herencia, Polimorfismo
+o	D) Entrada, Proceso, Salida, Almacenamiento
+o	Correcta: C
+4.	¿Qué pilar de la POO se refiere a ocultar los detalles internos de implementación y exponer solo la funcionalidad necesaria al exterior?
+o	A) Herencia
+o	B) Polimorfismo
+o	C) Instanciación
+o	D) Abstracción
+o	Correcta: D
+5.	¿Qué pilar restringe el acceso directo a los atributos de un objeto para proteger la integridad de sus datos?
+o	A) Encapsulamiento
+o	B) Polimorfismo
+o	C) Herencia
+o	D) Sobrecarga
+o	Correcta: A
+6.	El mecanismo por el cual una clase (hija) adquiere los atributos y métodos de otra clase (padre) se denomina:
+o	A) Encapsulamiento
+o	B) Polimorfismo
+o	C) Herencia
+o	D) Abstracción
+o	Correcta: C
+7.	¿Qué es el Polimorfismo en POO?
+o	A) La capacidad de compilar un código en múltiples sistemas operativos
+o	B) La capacidad de diferentes objetos para responder de forma distinta a la misma llamada de método
+o	C) La habilidad de una clase de tener múltiples nombres
+o	D) El proceso de ocultar el código fuente
+o	Correcta: B
+8.	En una clase, ¿qué es un "Atributo" o Propiedad?
+o	A) Una variable que guarda las características o el estado del objeto
+o	B) Un bloque de código que realiza una acción
+o	C) Un error lógico
+o	D) El nombre del archivo
+o	Correcta: A
+9.	En una clase, ¿qué es un "Método"?
+o	A) El color del objeto
+o	B) Una función definida dentro de la clase que describe el comportamiento o acciones del objeto
+o	C) Un tipo de dato primitivo
+o	D) Una base de datos integrada
+o	Correcta: B
+10.	¿Qué es un "Constructor"?
+o	A) Un programa externo que compila el código
+o	B) Un método especial que se invoca automáticamente al instanciar un objeto, útil para inicializar sus atributos
+o	C) Una variable constante
+o	D) Un bucle que se repite infinitamente
+o	Correcta: B
+11.	¿Cómo se denominan comúnmente a los métodos que se utilizan para leer y modificar atributos privados de forma controlada?
+o	A) Push y Pop
+o	B) Getters y Setters
+o	C) Input y Output
+o	D) Start y Stop
+o	Correcta: B
+12.	¿Qué indica el modificador de acceso private aplicado a un atributo?
+o	A) Que puede ser accedido desde cualquier parte del programa
+o	B) Que solo puede ser accedido desde dentro de la misma clase en la que fue declarado
+o	C) Que puede ser accedido por la clase y sus subclases
+o	D) Que es invisible para el compilador
+o	Correcta: B
+13.	¿Qué indica el modificador de acceso protected?
+o	A) Que ningún archivo puede borrar esa variable
+o	B) Que el atributo o método es accesible dentro de la propia clase y en las clases que hereden de ella (subclases)
+o	C) Que es completamente público
+o	D) Que está encriptado con una contraseña
+o	Correcta: B
+14.	En lenguajes de programación como Java o C#, ¿qué palabra reservada se usa comúnmente para referirse al objeto actual (a sí mismo) dentro de la clase?
+o	A) super
+o	B) me
+o	C) this (o self)
+o	D) parent
+o	Correcta: C
+15.	¿Qué significa la "Sobrecarga de Métodos" (Overloading)?
+o	A) Ejecutar un método tantas veces que se bloquea el programa
+o	B) Tener varios métodos con el mismo nombre en la misma clase, pero con diferentes parámetros (firmas)
+o	C) Sobreescribir un método del padre
+o	D) Borrar un método de la memoria
+o	Correcta: B
+16.	¿Qué es la "Sobreescritura de Métodos" (Overriding)?
+o	A) Cuando una subclase redefine un método que heredó de su clase padre para darle un comportamiento específico
+o	B) Cuando el compilador borra un método por falta de uso
+o	C) Cuando dos clases diferentes tienen el mismo nombre
+o	D) Cuando se pasa de memoria RAM al disco duro
+o	Correcta: A
+17.	¿Qué es una "Clase Abstracta"?
+o	A) Una clase que no tiene métodos ni atributos
+o	B) Una clase de la cual no se pueden crear instancias directamente y sirve como base genérica para otras clases
+o	C) Una clase que ocupa poco espacio en disco
+o	D) Una clase con errores de sintaxis
+o	Correcta: B
+18.	¿Qué es una "Interfaz" (Interface) en la POO?
+o	A) La pantalla gráfica que ve el usuario (GUI)
+o	B) Un contrato que define firmas de métodos vacíos, obligando a las clases que la implementan a codificar dichos métodos
+o	C) El cable que conecta el monitor al CPU
+o	D) Un tipo de arreglo dinámico
+o	Correcta: B
+19.	¿Cuál es la principal diferencia entre una Clase Abstracta y una Interfaz tradicional?
+o	A) La clase abstracta es para bases de datos, la interfaz para redes
+o	B) Las interfaces no pueden tener métodos con implementación (cuerpo), mientras que las clases abstractas sí pueden combinar métodos implementados y abstractos
+o	C) No hay diferencia, son sinónimos exactos
+o	D) Las interfaces solo se usan en lenguaje C
+o	Correcta: B
+20.	En un diagrama de clases UML, ¿cómo se representa gráficamente la relación de Herencia?
+o	A) Con una línea punteada y un rombo
+o	B) Con una línea sólida que termina en una flecha con punta triangular hueca apuntando a la clase padre
+o	C) Con un círculo sólido
+o	D) Con una flecha roja cruzada
+o	Correcta: B
+21.	¿Qué es la "Composición" en el diseño orientado a objetos?
+o	A) Escribir comentarios en el código
+o	B) Una relación donde una clase contiene objetos de otra clase y la vida de esos objetos depende del contenedor (relación "todo-parte" fuerte)
+o	C) Herencia múltiple
+o	D) Compilar varios archivos a la vez
+o	Correcta: B
+22.	A diferencia de la Composición, ¿qué es la "Agregación"?
+o	A) Sumar dos variables numéricas
+o	B) Una relación "todo-parte" más débil, donde las partes pueden existir independientemente del objeto contenedor
+o	C) El proceso de encapsular datos
+o	D) Instanciar clases abstractas
+o	Correcta: B
+23.	En POO, ¿qué significa instanciar?
+o	A) Borrar una variable de la memoria
+o	B) Crear un objeto nuevo en memoria utilizando una clase como plantilla
+o	C) Instalar el programa en el sistema operativo
+o	D) Reiniciar el servidor de bases de datos
+o	Correcta: B
+24.	¿Para qué se usa comúnmente la palabra reservada super (o base) en lenguajes como Java o C#?
+o	A) Para dar permisos de administrador al usuario
+o	B) Para invocar métodos o constructores de la clase padre directamente desde la subclase
+o	C) Para terminar el programa
+o	D) Para hacer una variable global
+o	Correcta: B
+25.	El concepto de "Acoplamiento" (Coupling) en diseño de software se refiere a:
+o	A) El nivel de dependencia o interconexión que existe entre distintas clases o módulos
+o	B) La conexión a internet del programa
+o	C) Unir dos cadenas de texto
+o	D) El número total de clases del sistema
+o	Correcta: A
+Aquí tienes el bloque correspondiente al 5to Semestre. He incluido conceptos prácticos de configuración de servidores y protocolos en la parte de redes, manteniendo el formato exacto para tu plataforma.
+5to Semestre
+Redes y Transmisión de Datos
+1.	¿Cuál es el propósito principal de una red de computadoras?
+o	A) Aumentar la memoria RAM de los equipos
+o	B) Compartir recursos e información entre dispositivos interconectados
+o	C) Evitar el uso de cables físicos
+o	D) Prevenir infecciones por virus informáticos
+o	Correcta: B
+2.	En el Modelo OSI de referencia para redes, ¿cuántas capas (niveles) existen?
+o	A) 4
+o	B) 5
+o	C) 7
+o	D) 9
+o	Correcta: C
+3.	¿Qué protocolo opera en la capa de Red (Capa 3) del Modelo OSI y se encarga del enrutamiento lógico?
+o	A) TCP
+o	B) MAC
+o	C) HTTP
+o	D) IP (Internet Protocol)
+o	Correcta: D
+4.	¿Cuál es la principal diferencia entre los protocolos de transporte TCP y UDP?
+o	A) UDP es orientado a la conexión y TCP no
+o	B) TCP es más rápido pero menos seguro que UDP
+o	C) TCP garantiza la entrega de paquetes (orientado a conexión) y UDP no
+o	D) TCP solo se usa en redes locales y UDP en internet
+o	Correcta: C
+5.	¿Qué es una dirección MAC?
+o	A) Un identificador físico único asignado a la tarjeta de red desde fábrica
+o	B) La dirección lógica que asigna el proveedor de internet
+o	C) El nombre de host de una computadora de la marca Apple
+o	D) El puerto de conexión de un servidor web
+o	Correcta: A
+6.	¿Cuál es la función del protocolo DHCP en una red?
+o	A) Traducir nombres de dominio a direcciones IP
+o	B) Asignar direcciones IP y parámetros de red de forma automática a los dispositivos
+o	C) Encriptar las contraseñas de los usuarios
+o	D) Transferir archivos entre un cliente y un servidor
+o	Correcta: B
+7.	Si un usuario escribe "www.google.com" en su navegador, ¿qué protocolo traduce ese nombre a una dirección IP numérica?
+o	A) FTP
+o	B) DHCP
+o	C) DNS
+o	D) SMTP
+o	Correcta: C
+8.	¿Qué protocolo y puerto por defecto se utiliza comúnmente para la transferencia de archivos de forma no segura?
+o	A) HTTP (Puerto 80)
+o	B) SSH (Puerto 22)
+o	C) FTP (Puerto 21)
+o	D) Telnet (Puerto 23)
+o	Correcta: C
+9.	Para el envío de correos electrónicos desde un cliente hacia un servidor, el protocolo estándar es:
+o	A) POP3
+o	B) IMAP
+o	C) SNMP
+o	D) SMTP
+o	Correcta: D
+10.	¿Qué comando de red utiliza el protocolo ICMP para verificar si un equipo remoto es alcanzable?
+o	A) ipconfig
+o	B) ping
+o	C) netstat
+o	D) tracert
+o	Correcta: B
+11.	¿Cómo se llama la topología de red donde todos los nodos están conectados a un dispositivo central (como un Switch)?
+o	A) Topología de Anillo
+o	B) Topología de Bus
+o	C) Topología de Malla
+o	D) Topología de Estrella
+o	Correcta: D
+12.	¿Cuál es la principal diferencia funcional entre un Switch y un Router?
+o	A) El Switch conecta redes distintas; el Router conecta dispositivos dentro de la misma red local
+o	B) El Switch opera con direcciones IP; el Router con direcciones MAC
+o	C) El Switch conecta dispositivos en la misma red local (LAN); el Router interconecta redes diferentes
+o	D) No hay diferencia, son el mismo dispositivo con distinto nombre
+o	Correcta: C
+13.	¿Qué significan las siglas LAN?
+o	A) Local Area Network (Red de Área Local)
+o	B) Large Access Node (Nodo de Acceso Grande)
+o	C) Logical Array Network (Red de Arreglo Lógico)
+o	D) Level Application Network (Red de Aplicación de Nivel)
+o	Correcta: A
+14.	¿Por qué los cables UTP (Par Trenzado) tienen sus hilos internos enrollados entre sí?
+o	A) Para que el cable sea más flexible y difícil de romper
+o	B) Para reducir la interferencia electromagnética (diafonía)
+o	C) Para diferenciar los colores fácilmente
+o	D) Para aumentar el voltaje que pueden transportar
+o	Correcta: B
+15.	En una configuración IPv4, ¿para qué sirve la "Máscara de Subred"?
+o	A) Para ocultar la IP y navegar de forma anónima
+o	B) Para determinar qué porción de la IP corresponde a la red y qué porción al host (dispositivo)
+o	C) Para bloquear ataques informáticos externos
+o	D) Para darle prioridad a los paquetes de video
+o	Correcta: B
+16.	¿Qué es la "Puerta de Enlace Predeterminada" (Default Gateway)?
+o	A) La dirección IP del dispositivo que sirve como salida de una red local hacia internet u otras redes
+o	B) El firewall de Windows
+o	C) El puerto donde se conecta el cable de fibra óptica
+o	D) La página de inicio del navegador web
+o	Correcta: A
+17.	¿Qué es el ancho de banda en transmisión de datos?
+o	A) La velocidad a la que giran los discos duros en el servidor
+o	B) El tiempo que tarda un paquete en ir y volver (latencia)
+o	C) La cantidad máxima de datos que se pueden transmitir por un medio en un periodo de tiempo determinado
+o	D) El diámetro del cable de red
+o	Correcta: C
+18.	En comunicaciones, si los datos pueden viajar en ambas direcciones pero no al mismo tiempo (como un walkie-talkie), se denomina transmisión:
+o	A) Simplex
+o	B) Half-Duplex
+o	C) Full-Duplex
+o	D) Multiplexada
+o	Correcta: B
+19.	¿Cuál es una ventaja principal de la Fibra Óptica sobre los cables de cobre?
+o	A) Es más barata de fabricar
+o	B) Es más fácil de empalmar y reparar
+o	C) Utiliza pulsos de luz, por lo que es inmune a la interferencia electromagnética
+o	D) Transmite electricidad además de datos
+o	Correcta: C
+20.	¿Qué significa crear una VPN (Virtual Private Network)?
+o	A) Instalar un antivirus en red
+o	B) Crear una conexión cifrada y segura a través de una red pública como internet
+o	C) Compartir una impresora en una oficina
+o	D) Formatear un servidor a distancia
+o	Correcta: B
+21.	¿Cuántos bits de longitud tiene una dirección IPv4 convencional?
+o	A) 16 bits
+o	B) 32 bits
+o	C) 64 bits
+o	D) 128 bits
+o	Correcta: B
+22.	Debido al agotamiento de direcciones IPv4, ¿qué versión se implementó con direcciones de 128 bits y formato hexadecimal?
+o	A) IPv5
+o	B) IPv6
+o	C) IPx
+o	D) MACv2
+o	Correcta: B
+23.	¿Qué significa la "Latencia" en una conexión de red?
+o	A) La cantidad de megabytes descargados por segundo
+o	B) El retraso o tiempo que tarda un paquete de datos en ir desde el origen hasta el destino
+o	C) El costo del servicio de internet
+o	D) La cantidad de dispositivos conectados al WiFi
+o	Correcta: B
+24.	¿Qué tecnología permite la transmisión simultánea de varias señales a través de un solo enlace o medio físico?
+o	A) Modulación
+o	B) Paginación
+o	C) Multiplexación
+o	D) Enrutamiento estático
+o	Correcta: C
+25.	El estándar IEEE 802.11 hace referencia a:
+o	A) Las conexiones por cable Ethernet
+o	B) Las conexiones inalámbricas Wi-Fi
+o	C) La transmisión por Bluetooth
+o	D) La arquitectura de procesadores de red
+o	Correcta: B
+Base de Datos Distribuidas
+1.	¿Qué es una Base de Datos Distribuida (BDD)?
+o	A) Una base de datos que se instala en el disco duro externo de un usuario
+o	B) Un conjunto de bases de datos lógicamente relacionadas que se encuentran físicamente en distintos nodos o sitios de una red
+o	C) Un archivo de Excel compartido en la nube
+o	D) Una base de datos que solo acepta comandos de forma asíncrona
+o	Correcta: B
+2.	¿Cuál es uno de los principales objetivos de un Sistema Gestor de Bases de Datos Distribuidas (SGBDD)?
+o	A) Concentrar todos los datos en un solo disco duro
+o	B) Proveer transparencia, haciendo que el usuario vea la base de datos como si fuera centralizada
+o	C) Evitar el uso de lenguaje SQL
+o	D) Reducir la seguridad de los datos para hacerlos más accesibles
+o	Correcta: B
+3.	En BDD, ¿qué significa la "Transparencia de Localización"?
+o	A) Los datos no tienen contraseñas
+o	B) El usuario puede consultar datos sin necesidad de saber en qué nodo físico o geográfico se encuentran almacenados
+o	C) El sistema operativo del servidor es de código abierto
+o	D) Todos los nodos deben estar en la misma habitación
+o	Correcta: B
+4.	El proceso de dividir una tabla global en partes más pequeñas para distribuirlas en distintos nodos se conoce como:
+o	A) Replicación
+o	B) Fragmentación
+o	C) Compresión
+o	D) Encriptación
+o	Correcta: B
+5.	Si divides una tabla de "Empleados" de forma que los de la Sucursal Norte queden en un nodo y los de la Sucursal Sur en otro, estás aplicando:
+o	A) Fragmentación Horizontal
+o	B) Fragmentación Vertical
+o	C) Fragmentación Mixta
+o	D) Replicación Completa
+o	Correcta: A
+6.	Si divides una tabla para que un nodo almacene solo los ID y Nombres, y otro nodo almacene los ID y Salarios, estás aplicando:
+o	A) Fragmentación Horizontal
+o	B) Fragmentación Vertical
+o	C) Replicación Parcial
+o	D) Indexación Distribuida
+o	Correcta: B
+7.	¿Qué es la "Replicación" en bases de datos distribuidas?
+o	A) Mantener copias de los mismos datos (o fragmentos) en múltiples sitios del sistema
+o	B) Traducir la base de datos a múltiples idiomas
+o	C) Borrar los datos antiguos automáticamente
+o	D) Cambiar el tipo de dato de una columna
+o	Correcta: A
+8.	¿Cuál es una gran ventaja de la replicación de datos?
+o	A) Ahorra espacio en el disco duro
+o	B) Aumenta la disponibilidad de los datos y la tolerancia a fallos
+o	C) Hace imposible que la base de datos sea hackeada
+o	D) Evita tener que usar llaves primarias
+o	Correcta: B
+9.	¿Cuál es la principal desventaja o desafío de la replicación de datos?
+o	A) Disminuye la velocidad de las lecturas locales
+o	B) Requiere monitores de mayor resolución
+o	C) El alto costo de mantener la consistencia (sincronización) cuando se actualizan los datos
+o	D) Solo funciona en sistemas Linux
+o	Correcta: C
+10.	El Teorema CAP (o de Brewer) establece que en un sistema distribuido es imposible garantizar simultáneamente tres propiedades. ¿Cuáles son?
+o	A) Consistencia, Disponibilidad, y Tolerancia a Particiones
+o	B) Capacidad, Agilidad, y Procesamiento
+o	C) Control, Autenticación, y Permisos
+o	D) Carga, Arquitectura, y Protocolos
+o	Correcta: A
+11.	Según el Teorema CAP, ante una partición de red (falla de comunicación entre nodos), un sistema debe elegir entre:
+o	A) Memoria o Procesamiento
+o	B) Consistencia o Disponibilidad
+o	C) Velocidad o Costo
+o	D) Relacional o No Relacional
+o	Correcta: B
+12.	¿Para qué se utiliza el protocolo de "Commit de Dos Fases" (2PC) en BDD?
+o	A) Para instalar el software de base de datos en dos computadoras
+o	B) Para asegurar que una transacción distribuida se confirme en todos los nodos o se aborte en todos (Atomicidad)
+o	C) Para hacer copias de seguridad cada dos horas
+o	D) Para encriptar la base de datos con doble factor
+o	Correcta: B
+13.	¿Cuáles son las dos fases del protocolo 2PC (Two-Phase Commit)?
+o	A) Leer y Escribir
+o	B) Iniciar y Terminar
+o	C) Preparación (Prepare) y Confirmación (Commit/Abort)
+o	D) Enviar y Recibir
+o	Correcta: C
+14.	En un entorno distribuido, ¿qué es un "Catálogo Global" o Diccionario de Datos Distribuido?
+o	A) Un manual impreso para los administradores
+o	B) Un repositorio que almacena metadatos sobre la fragmentación, replicación y ubicación física de los datos en la red
+o	C) La lista de direcciones IP de todos los usuarios
+o	D) Un índice para ordenar las tablas alfabéticamente
+o	Correcta: B
+15.	En bases de datos distribuidas que buscan alta disponibilidad (como muchas NoSQL), en lugar de consistencia inmediata se suele optar por:
+o	A) Consistencia Eventual
+o	B) Inconsistencia Permanente
+o	C) Bloqueo Total
+o	D) Rechazo de lectura
+o	Correcta: A
+16.	¿Qué significa "Transparencia de Fragmentación"?
+o	A) El usuario puede ver cómo está dividido el código fuente
+o	B) El usuario puede hacer consultas sin saber que la tabla lógica que consulta está en realidad dividida en varios fragmentos
+o	C) Las pantallas de los administradores no muestran las contraseñas
+o	D) Los nodos defectuosos se apagan automáticamente
+o	Correcta: B
+17.	¿Qué es una transacción distribuida?
+o	A) Una venta realizada por internet
+o	B) Una transacción de base de datos que involucra y afecta datos ubicados en más de un nodo de la red
+o	C) Un proceso que envía un correo a todos los usuarios
+o	D) Una consulta SELECT que tarda más de 5 segundos
+o	Correcta: B
+18.	El objetivo de la "Optimización de Consultas" en bases de datos distribuidas es:
+o	A) Reducir el consumo eléctrico del servidor principal
+o	B) Encontrar un plan de ejecución que minimice el tiempo de procesamiento y, sobre todo, el costo de transferencia de datos por la red
+o	C) Hacer que la consulta se vea más bonita usando mayúsculas
+o	D) Aumentar la cantidad de registros en la base de datos
+o	Correcta: B
+19.	Un "Deadlock" (Interbloqueo) Distribuido ocurre cuando:
+o	A) El disco duro principal se descompone físicamente
+o	B) Las transacciones en diferentes nodos se quedan esperando mutuamente recursos bloqueados, creando un ciclo de espera a nivel red
+o	C) Un hacker bloquea el acceso a la base de datos
+o	D) El usuario olvida su contraseña
+o	Correcta: B
+20.	En la replicación "Maestro-Esclavo" (Master-Slave), las escrituras (INSERT/UPDATE) normalmente se dirigen al nodo Maestro, ¿y qué hacen los Esclavos?
+o	A) Ignoran los datos
+o	B) Procesan otras bases de datos no relacionadas
+o	C) Copian los datos del Maestro y generalmente sirven para atender consultas de lectura (SELECT)
+o	D) Compiten con el Maestro para escribir los datos primero
+o	Correcta: C
+21.	¿Qué es un esquema P2P en bases de datos?
+o	A) Una arquitectura donde un nodo es jefe de todos los demás
+o	B) Una arquitectura donde todos los nodos tienen las mismas capacidades y responsabilidades, sin un servidor central
+o	C) Una red donde no hay bases de datos, solo archivos multimedia
+o	D) Un cable directo entre dos computadoras
+o	Correcta: B
+22.	La técnica de control de concurrencia distribuida más común que asegura que solo una transacción modifique un dato a la vez es:
+o	A) Desfragmentación
+o	B) Bloqueo de Dos Fases (2PL - Two-Phase Locking)
+o	C) Respaldo Incremental
+o	D) Enrutamiento Dinámico
+o	Correcta: B
+23.	¿Qué modelo de base de datos distribuida utiliza la arquitectura "Sharding"?
+o	A) Dividir la base de datos horizontalmente en partes independientes (shards) que se alojan en distintos servidores
+o	B) Juntar todos los servidores en una sola torre de hardware
+o	C) Duplicar la misma tabla infinitas veces
+o	D) Convertir bases de datos relacionales en archivos de texto
+o	Correcta: A
+24.	La Autonomía Local en una BDD significa que:
+o	A) Los nodos no necesitan internet para nada
+o	B) Cada nodo o sitio de la red puede operar y administrar sus propios datos de forma independiente en gran medida
+o	C) Cada empleado puede diseñar su propia base de datos
+o	D) El servidor se apaga solo al terminar el día
+o	Correcta: B
+25.	Un sistema gestor de BDD "Heterogéneo" es aquel en el que:
+o	A) Los nodos usan exactamente el mismo hardware
+o	B) Todos los nodos tienen exactamente la misma cantidad de datos
+o	C) Los distintos nodos pueden ejecutar diferentes sistemas operativos o diferentes motores de bases de datos (ej. uno Oracle y otro MySQL)
+o	D) La base de datos es mitad en español y mitad en inglés
+o	Correcta: C
+6to Semestre
+Administración de Sistemas
+1.	¿Cuál es el rol principal de un Administrador de Sistemas?
+o	A) Programar interfaces gráficas para los usuarios
+o	B) Garantizar el tiempo de actividad, rendimiento, uso de recursos y seguridad de los servidores que administran
+o	C) Vender equipos de hardware
+o	D) Diseñar el esquema de colores de la página web de la empresa
+o	Correcta: B
+2.	En un entorno Windows Server, ¿qué servicio centralizado gestiona identidades, usuarios, contraseñas y permisos en la red?
+o	A) Windows Defender
+o	B) Active Directory (AD)
+o	C) Internet Information Services (IIS)
+o	D) Hyper-V
+o	Correcta: B
+3.	¿Qué protocolo es fundamental configurar en una red local para que los equipos cliente reciban automáticamente una dirección IP?
+o	A) FTP
+o	B) DNS
+o	C) DHCP
+o	D) SSH
+o	Correcta: C
+4.	Para administrar servidores Linux de forma remota y segura mediante una terminal de comandos, el protocolo estándar es:
+o	A) Telnet
+o	B) FTP
+o	C) RDP
+o	D) SSH
+o	Correcta: D
+5.	En Linux/Debian, ¿qué comando se utiliza comúnmente con privilegios de superusuario para instalar y actualizar paquetes de software?
+o	A) ipconfig
+o	B) apt (o apt-get)
+o	C) chmod
+o	D) mkdir
+o	Correcta: B
+6.	¿Cuál es la función de un servidor DNS en la administración de infraestructuras?
+o	A) Asignar IP de forma automática
+o	B) Traducir nombres de dominio legibles para humanos a direcciones IP comprensibles para la red
+o	C) Enviar correos electrónicos
+o	D) Bloquear ataques de red
+o	Correcta: B
+7.	En la gestión de servidores de correo, ¿qué protocolo se utiliza para el envío de correos hacia el servidor?
+o	A) POP3
+o	B) IMAP
+o	C) SMTP
+o	D) SNMP
+o	Correcta: C
+8.	Si necesitas implementar un sistema para descargar correos al cliente local borrándolos del servidor (o dejándolos temporalmente), ¿qué protocolo se utiliza?
+o	A) SMTP
+o	B) POP3
+o	C) HTTP
+o	D) DNS
+o	Correcta: B
+9.	¿Qué tecnología permite empaquetar una aplicación y todas sus dependencias en entornos aislados y ligeros sin virtualizar todo un sistema operativo?
+o	A) RAID
+o	B) Contenedores (ej. Docker)
+o	C) VPN
+o	D) Active Directory
+o	Correcta: B
+10.	¿Cuál es la función principal de una herramienta de seguridad como fail2ban en un servidor?
+o	A) Acelerar la carga de páginas web almacenando caché
+o	B) Prevenir ataques de fuerza bruta analizando logs y bloqueando direcciones IP sospechosas en el firewall
+o	C) Realizar copias de seguridad incrementales
+o	D) Desencriptar contraseñas perdidas
+o	Correcta: B
+11.	¿Qué es la Autenticación Multifactor (MFA)?
+o	A) Usar la misma contraseña en múltiples sitios
+o	B) Un sistema que requiere más de un método de verificación independiente para comprobar la identidad del usuario
+o	C) Un servidor que maneja múltiples dominios
+o	D) Cambiar la contraseña cada 30 días obligatoriamente
+o	Correcta: B
+12.	En la configuración de un sistema de autenticación por tokens (como multiOTP), si se ejecuta un comando para modificar el "tiempo de tolerancia", ¿cuál es su propósito real?
+o	A) Iniciar una sesión de administrador en el servidor
+o	B) Compensar la desincronización de reloj entre el servidor y el generador del token, no iniciar sesión
+o	C) Bloquear al usuario tras 3 intentos fallidos
+o	D) Crear un usuario temporal por 5 minutos
+o	Correcta: B
+13.	¿Qué significa la sigla RAID en el almacenamiento de servidores?
+o	A) Red de Acceso a Internet Distribuida
+o	B) Ruta Autónoma de Información Dinámica
+o	C) Arreglo Redundante de Discos Independientes
+o	D) Registro Analítico de Intervenciones Digitales
+o	Correcta: C
+14.	En un sistema Linux, ¿qué archivo se edita comúnmente para montar particiones de disco de forma automática al arrancar el sistema?
+o	A) /etc/fstab
+o	B) /etc/passwd
+o	C) /var/log/syslog
+o	D) /bin/bash
+o	Correcta: A
+15.	¿Qué utilidad de Unix/Linux permite programar tareas para que se ejecuten automáticamente en una fecha, hora o intervalo específico?
+o	A) systemd
+o	B) cron
+o	C) top
+o	D) grep
+o	Correcta: B
+16.	Si un administrador necesita revisar qué procesos están consumiendo más CPU y memoria en tiempo real en un servidor Linux, ¿qué comando es el más rápido de usar?
+o	A) ls
+o	B) ping
+o	C) top (o htop)
+o	D) tar
+o	Correcta: C
+17.	En la gestión de permisos en Linux, ¿qué significa el comando chmod 777 archivo.txt?
+o	A) Elimina el archivo de forma segura
+o	B) Oculta el archivo para que nadie lo vea
+o	C) Da permisos totales de lectura, escritura y ejecución al propietario, al grupo y a cualquier otro usuario
+o	D) Cambia el propietario del archivo
+o	Correcta: C
+18.	En una arquitectura cliente-servidor, ¿qué es un servidor Proxy?
+o	A) Un programa para diseñar bases de datos
+o	B) Un intermediario que intercepta, filtra o cachea las peticiones de red entre un cliente y el servidor destino
+o	C) Un disco duro externo conectado por USB
+o	D) El software que interpreta código PHP
+o	Correcta: B
+19.	¿Cuál es el protocolo estándar para la transferencia interactiva de archivos entre sistemas a través de una red TCP/IP ?
+o	A) FTP
+o	B) SMTP
+o	C) DHCP
+o	D) ICMP
+o	Correcta: A
+20.	¿Qué significa hacer un despliegue "Bare Metal"?
+o	A) Instalar una aplicación en la nube de Amazon
+o	B) Instalar un sistema operativo y aplicaciones directamente en el hardware físico de un servidor, sin usar virtualización
+o	C) Usar discos duros sólidos en lugar de mecánicos
+o	D) Desplegar código usando únicamente contenedores Docker
+o	Correcta: B
+21.	En Windows Server, ¿qué es IIS ?
+o	A) El navegador web predeterminado del servidor
+o	B) El software de servidor web de Microsoft para alojar sitios y aplicaciones
+o	C) El antivirus nativo
+o	D) Una herramienta para comprimir archivos
+o	Correcta: B
+22.	Para garantizar la disponibilidad de un servicio ante un fallo de hardware, los administradores suelen crear un grupo de servidores que trabajan juntos. A esto se le llama:
+o	A) Cluster (Clúster)
+o	B) Proxy
+o	C) Dominio
+o	D) Shell
+o	Correcta: A
+23.	¿Qué directorio en Linux está destinado tradicionalmente para almacenar los archivos de registro (Logs) del sistema y las aplicaciones?
+o	A) /home
+o	B) /etc
+o	C) /var/log
+o	D) /usr/bin
+o	Correcta: C
+24.	¿Qué es un Balanceador de Carga?
+o	A) Un sistema que distribuye el tráfico de red entrante a través de múltiples servidores para evitar la sobrecarga de uno solo
+o	B) Una batería de respaldo (UPS) para el rack de servidores
+o	C) Un script que borra archivos pesados
+o	D) Una herramienta para clonar discos duros
+o	Correcta: A
+25.	En auditoría de sistemas, ¿qué busca una "Prueba de Penetración" (Pentesting)?
+o	A) Probar la velocidad de internet
+o	B) Simular un ataque cibernético controlado para identificar y reparar vulnerabilidades de seguridad antes de que sean explotadas
+o	C) Probar si el cable de red está bien conectado
+o	D) Medir la temperatura del procesador
+o	Correcta: B
+Introducción al Desarrollo Web
+1.	¿Qué es HTML?
+o	A) Un lenguaje de programación compilado
+o	B) Un lenguaje de marcado utilizado para estructurar y dar significado al contenido de una página web
+o	C) Un protocolo de seguridad para encriptar contraseñas
+o	D) Una base de datos relacional
+o	Correcta: B
+2.	En el desarrollo web, ¿cuál es la función principal de CSS?
+o	A) Añadir interactividad compleja y lógica matemática
+o	B) Controlar la presentación, diseño y estilos visuales de los elementos HTML
+o	C) Conectar el sitio web a una base de datos
+o	D) Configurar el servidor de alojamiento
+o	Correcta: B
+3.	¿Qué lenguaje se utiliza en el navegador (Frontend) para crear interactividad, animaciones y manipular dinámicamente el contenido de la página?
+o	A) PHP
+o	B) Python
+o	C) JavaScript
+o	D) SQL
+o	Correcta: C
+4.	¿Qué es el DOM ?
+o	A) Una representación estructurada y en forma de árbol del documento HTML que permite a los lenguajes de programación manipularlo
+o	B) Un servidor que aloja imágenes
+o	C) Un editor de código gratuito
+o	D) El formato de las direcciones URL
+o	Correcta: A
+5.	Si estás desarrollando una plataforma de trivia interactiva que necesita mantener una conexión bidireccional y en tiempo real entre el servidor y todos los clientes conectados, ¿qué tecnología es la ideal?
+o	A) Peticiones AJAX tradicionales
+o	B) WebSockets
+o	C) Cookies
+o	D) LocalStorage
+o	Correcta: B
+6.	En arquitectura de software aplicada al desarrollo web, ¿qué principio general se aplica a la Interfaz de Usuario (UI)?
+o	A) Debe contener toda la lógica de validación de base de datos
+o	B) Debe ser tratada como un detalle externo, totalmente independiente y separada de las reglas de negocio de la aplicación
+o	C) Debe escribirse en el mismo archivo que las consultas SQL
+o	D) Solo puede construirse usando JavaScript puro sin frameworks
+o	Correcta: B
+7.	¿Qué es el Desarrollo "Frontend"?
+o	A) El trabajo enfocado en la base de datos
+o	B) La construcción de la parte visual y de interacción que ocurre directamente en el navegador del usuario
+o	C) La configuración de los servidores físicos
+o	D) El diseño exclusivo de aplicaciones de consola
+o	Correcta: B
+8.	¿Qué es el Desarrollo "Backend"?
+o	A) La lógica de servidor, bases de datos, autenticación y la infraestructura invisible para el usuario
+o	B) El diseño de botones y menús
+o	C) La edición de fotografías e iconos
+o	D) El análisis de métricas de marketing
+o	Correcta: A
+9.	¿Qué atributo HTML se usa en la etiqueta <a> para definir la URL a la que apuntará el enlace?
+o	A) src
+o	B) link
+o	C) href
+o	D) path
+o	Correcta: C
+10.	¿Qué etiqueta HTML se utiliza para incrustar una imagen en una página web?
+o	A) <picture>
+o	B) <image>
+o	C) <img>
+o	D) <media>
+o	Correcta: C
+11.	En CSS, ¿qué propiedad se utiliza para cambiar el color del texto?
+o	A) text-color
+o	B) font-color
+o	C) color
+o	D) background-color
+o	Correcta: C
+12.	¿Cuál es el propósito del diseño web "Responsive" (Adaptativo)?
+o	A) Que la página se cargue en menos de 1 segundo
+o	B) Que la estructura y diseño del sitio se ajusten correctamente a cualquier tamaño de pantalla (móviles, tablets, monitores)
+o	C) Que la página responda al control de voz
+o	D) Que soporte navegadores antiguos como Internet Explorer 6
+o	Correcta: B
+13.	En CSS, ¿qué regla se utiliza para aplicar estilos específicos según el tamaño de la pantalla del dispositivo?
+o	A) @media (Media Queries)
+o	B) @screen
+o	C) #responsive
+o	D) .mobile-view
+o	Correcta: A
+14.	En JavaScript, ¿cuál de las siguientes palabras reservadas se utiliza para declarar una variable cuyo valor no va a cambiar?
+o	A) var
+o	B) let
+o	C) const
+o	D) static
+o	Correcta: C
+15.	¿Qué significa UX en el desarrollo web?
+o	A) La velocidad del servidor de la página
+o	B) La experiencia general del usuario al interactuar con el producto, enfocándose en qué tan fácil, intuitivo y satisfactorio es de usar
+o	C) Un framework de JavaScript
+o	D) El lenguaje utilizado para escribir el backend
+o	Correcta: B
+16.	¿Qué es una API en un contexto web?
+o	A) Un editor de imágenes avanzado
+o	B) Un conjunto de reglas y protocolos que permite que una aplicación web se comunique e intercambie datos con otros servicios de software
+o	C) Una etiqueta HTML de video
+o	D) El nombre de usuario del administrador
+o	Correcta: B
+17.	¿Qué método HTTP se utiliza tradicionalmente para enviar datos seguros desde un formulario web hacia el servidor, sin que se vean en la URL?
+o	A) GET
+o	B) POST
+o	C) DELETE
+o	D) FETCH
+o	Correcta: B
+18.	A diferencia de POST, ¿cómo envía los parámetros de un formulario el método GET?
+o	A) Los envía cifrados en el cuerpo del mensaje HTTP
+o	B) Los anexa directamente al final de la URL, haciéndolos visibles
+o	C) Los guarda en una base de datos antes de enviarlos
+o	D) Los convierte a un formato de imagen
+o	Correcta: B
+19.	¿Qué es JSON?
+o	A) Un sistema operativo para servidores
+o	B) Un formato de texto ligero y fácil de leer, estándar para el intercambio de datos entre cliente y servidor
+o	C) Una librería para crear animaciones 3D
+o	D) Un tipo de ataque cibernético
+o	Correcta: B
+20.	En Bootstrap o librerías CSS modernas similares, ¿en cuántas "columnas" se suele dividir la cuadrícula (Grid System) estándar?
+o	A) 6 columnas
+o	B) 10 columnas
+o	C) 12 columnas
+o	D) 16 columnas
+o	Correcta: C
+21.	¿Qué etiqueta HTML se utiliza para crear la estructura básica de una lista no ordenada (viñetas)?
+o	A) <ol>
+o	B) <li>
+o	C) <ul>
+o	D) <list>
+o	Correcta: C
+22.	¿Qué significa el concepto de "Accesibilidad Web" (a11y)?
+o	A) Que el sitio sea gratuito
+o	B) Diseñar y desarrollar la web para que pueda ser utilizada sin barreras por personas con todo tipo de discapacidades (visuales, motoras, etc.)
+o	C) Que el servidor esté encendido las 24 horas
+o	D) Ponerle contraseña a todo el contenido
+o	Correcta: B
+23.	¿Para qué se utiliza el archivo index.html en la mayoría de los servidores web?
+o	A) Para guardar las contraseñas encriptadas
+o	B) Como la página de inicio predeterminada que se carga al acceder al directorio principal de un sitio web
+o	C) Para bloquear el acceso a los buscadores
+o	D) Para almacenar la hoja de estilos global
+o	Correcta: B
+24.	En JavaScript, una "función flecha" (Arrow Function) se reconoce visualmente por tener la sintaxis:
+o	A) function() {}
+o	B) =>
+o	C) ->
+o	D) <<>>
+o	Correcta: B
+25.	Cuando un desarrollador usa herramientas como React, Vue o Angular, ¿de qué tipo de herramientas estamos hablando?
+o	A) Bases de datos NoSQL
+o	B) Bibliotecas y Frameworks de JavaScript para construir interfaces de usuario de forma más eficiente y reactiva
+o	C) Sistemas operativos para servidores en la nube
+o	D) Editores de texto en consola
+o	Correcta: B
+--

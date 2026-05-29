@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>BRAIN FIRE - Registrarse</title>
+    <link rel="stylesheet" href="style-inicio.css">
+    <link rel="icon" type="image/png" href="recursos/icono.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+
+    <video autoplay muted loop id="bg-video">
+        <source src="recursos/fondo.mp4" type="video/mp4">
+    </video>
+
+    <header>
+    <div style="width: 40px;"></div>
+    <div class="header-title">
+        <a href="index.html" style="text-decoration: none;"><h1 style="color: rgb(255, 225, 165);">¡BIENVENIDO A</h1>
+        <h1 style="color: rgb(255, 164, 164);">BRAIN FIRE!</h1></a>
+    </div>
+
+    <a href="#" class="help-icon" title="¡Domina Ingeniería de Software mientras compites!&#10;&#10;Brain Fire es la plataforma de quizzesdiseñada para que repases tus materias,desde los fundamentos &#10;del primer semestre hasta los desafíos del último. Aprende, compite y demuestra tus conocimientos.">
+        <i class="fa-regular fa-circle-question"></i>
+    </a>
+    </header>
+
+    <br><br><br>
+    <form class="formu-inicio" action="registrar.php" method="POST">
+        <h2>REGISTRARSE</h2><br>
+        
+        <label>Nombre de usuario</label>
+        <br>
+        <input type="text" name="username" placeholder="Introduce tu nombre..." required />
+        <br><br>
+        
+        <label>Correo Electronico</label>
+        <br>
+        <input type="email" name="email" placeholder="Introduce tu correo electronico..." required />
+        <br><br>
+        
+        <label>Contraseña</label>
+        <br>
+        <input type="password" name="password" placeholder="Introducir contraseña..." required />
+        <br><br>
+        
+        <label>Confirmar contraseña</label>
+        <br>
+        <input type="password" name="confirm_password" placeholder="Introducir contraseña..." required />
+        <br><br>
+        
+        <button type="submit" class="btn-ingresar">Registrar</button>
+        <br><br>
+        
+        <label>¿Ya tienes cuenta con nosotros? <a href="inicio.html">Inicia sesion aqui</a></label>
+    </form>
+</body>
+</html>

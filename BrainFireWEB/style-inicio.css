@@ -1,0 +1,385 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Century Gothic", AppleGothic, "Trebuchet MS", sans-serif;
+    background-color: #fae6f6;
+    color: #444444;
+}
+
+header {
+    background-color: #612766;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    font-family: "Century Gothic", AppleGothic, "Trebuchet MS", sans-serif;
+}
+
+.header-index {
+    background-color: #612766;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5rem 3rem;
+}
+
+.logo {
+    font-size: 34px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.logo .brain {
+    color: #ffe4a9; 
+}
+
+.logo .fire {
+    color: #f1a19b; 
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    font-size: 18px;
+}
+
+.link-sesion {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.link-sesion:hover {
+    color: #f3d085;
+}
+
+.separador {
+    color: white;
+}
+
+.btn-registro {
+    background-color: white;
+    color: #612766;
+    text-decoration: none;
+    padding: 8px 22px;
+    border-radius: 20px;
+    font-weight: bold;
+    transition: background-color 0.3s, transform 0.1s;
+}
+
+.btn-registro:hover {
+    background-color: #f0f0f0;
+}
+
+.btn-registro:active {
+    transform: scale(0.95);
+}
+
+.hero {
+    text-align: center;
+    margin-top: 70px;
+    padding: 0 20px;
+}
+
+.hero h2 {
+    font-size: 28px;
+    color: #554859;
+    margin-bottom: 10px;
+}
+
+.hero p {
+    font-size: 22px;
+    color: #6b5c6e;
+    margin-bottom: 40px;
+    line-height: 1.4;
+    font-weight: 300;
+}
+
+.btn-hero {
+    display: inline-block;
+    background-color: #612766;
+    color: white;
+    text-decoration: none;
+    padding: 15px 35px;
+    border-radius: 12px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 70px;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.btn-hero:hover {
+    background-color: #49214d;
+    transform: scale(1.05);
+}
+
+.caracteristicas {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 0 20px 60px 20px;
+    flex-wrap: wrap; 
+}
+
+.card {
+    background-color: white;
+    border: 1px solid #333;
+    border-radius: 35px; 
+    width: 280px;
+    padding: 35px 25px;
+    text-align: center;
+}
+
+.card h3 {
+    color: #4a2450;
+    font-size: 24px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.card p {
+    color: #555;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.perfil-icono i {
+    font-size: 34px;
+    color: white;
+}
+
+.header-title {
+    text-align: center;
+    flex-grow: 1;
+}
+
+header h1 {
+    font-size: 40px;
+    margin: 0;
+}
+
+.help-icon {
+    color: white; 
+    font-size: 30px; 
+    text-decoration: none;
+    display: inline-flex; 
+    align-items: center; 
+    justify-content: center; 
+    padding: 10px; 
+    border-radius: 50%; 
+    transition: background-color 0.3s ease;
+}
+
+.help-icon:hover {
+    background-color: #49214d;
+}
+
+#bg-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -2;
+}
+
+
+.formu-inicio {
+    background-color: #ffffff;
+    width: 40%;
+    max-width: 450px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #000000;
+    border-radius: 15px;
+    box-shadow: 3px 3px 10px gray;
+}
+
+.formu-inicio a {
+    color: #686868;
+}
+
+.formu-inicio a:hover {
+    color: #1f41c7;
+    cursor: pointer;
+}
+
+form h2 {
+    font-family: "Century Gothic", AppleGothic, "Trebuchet MS", sans-serif;
+    color: #494949;
+}
+
+input {
+    padding: 6px;
+    width: 205px;
+    border-radius: 5px;
+}
+
+.btn-ingresar {
+    background-color: #8a3592;
+    color: white;
+    padding: 14px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.1s;
+    margin-top: 10px;
+}
+
+.btn-ingresar:hover {
+    background-color: #65276b;
+}
+
+.btn-ingresar:active {
+    transform: scale(0.90);
+}
+
+footer {
+    background-color: #222;
+    padding: 2rem;
+    color: white;
+}
+
+footer a {
+    color: white;
+    cursor: pointer;
+}
+
+footer a:hover {
+    color: #1f41c7;
+    cursor: pointer;
+}
+
+.perfil-container {
+    display: flex;
+    justify-content: space-around;
+    background-color: white; 
+    padding: 30px;
+    border-radius: 15px;
+    color: #333; 
+    max-width: 900px;
+    margin: 20px auto;
+    gap: 40px;
+}
+
+.info-actual, .formu-perfil {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.perfil-foto-seccion {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.perfil-foto-seccion i {
+    font-size: 60px;
+    color: #612766;
+    display: block;
+}
+
+.info-actual p {
+    margin: 10px 0;
+    font-size: 16px;
+}
+
+.formu-perfil input {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-family: inherit;
+}
+
+.btn-secundario {
+    background-color: #ddd;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    width: fit-content;
+}
+
+.btn-secundario:hover {
+    background-color: #adadad;
+}
+
+.semester-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px; 
+    padding: 60px 20px;
+    max-width: 1200px; 
+    margin: 0 auto; 
+}
+
+.semester-card {
+    background-color: white;
+    border-radius: 35px; 
+    width: 100%;
+    max-width: 900px; 
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); 
+    overflow: hidden; 
+    margin-bottom: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.semester-text-content {
+    padding: 30px 40px; 
+}
+
+.semester-card h3 {
+    color: #4a2450;
+    font-size: 28px; 
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.semester-card p {
+    color: #555; 
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+.semester-image-container {
+    height: 250px; 
+    width: 100%;
+    overflow: hidden;
+}
+
+.semester-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+    display: block; 
+}
+
+.semester-card:hover {
+    transform: translateY(-10px); 
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
+    cursor: pointer; 
+}
+
+@media (max-width: 900px) {
+    .semester-text-content {
+        padding: 20px 30px;
+    }
+    .semester-card h3 {
+        font-size: 24px;
+    }
+    .semester-image-container {
+        height: 200px;
+    }
+}
